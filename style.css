@@ -392,3 +392,38 @@
     font-weight: 700;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,;
 }
+
+
+.greeleft{
+    position: relative;
+    width: 20vw;
+    /* height: 100vh; */
+    top: 75%;
+    left: 0;
+}
+
+.greeleft img{
+    width: 100%;
+    position: absolute;
+    /* top: 0; */
+    /* left: 0; */
+}
+
+.greeright{
+    position: absolute;
+    /* width: 20vw; */
+    height: 50vh;
+    top: 225%;
+    /* left: 0; */
+    /* left: 79.8%; */
+    right: 0;
+}
+
+.greeright img{
+    /* width: 100%; */
+    height: 100%;
+    /* position: absolute; */
+    /* top: 0; */
+    /* left: 0; */
+    /* right: 0; */
+}
